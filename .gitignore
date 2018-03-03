@@ -1,6 +1,8 @@
 node_modules/
 build/
-bundle.js
+lib/
+
+./bundle.js
 
 npm-debug.log
 yarn-error.log
